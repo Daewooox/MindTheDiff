@@ -48,7 +48,7 @@
     "typecheck": "tsc -p tsconfig.json --noEmit"
   },
   "dependencies": {
-    "picomatch": "^4.0.5",
+    "picomatch": "^4.0.7",
     "zod": "^4.0.0"
   },
   "devDependencies": {
