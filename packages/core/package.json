@@ -49,7 +49,7 @@
   },
   "dependencies": {
     "picomatch": "^4.0.5",
-    "zod": "^4.0.0"
+    "zod": "^4.5.4"
   },
   "devDependencies": {
     "@types/picomatch": "^4.0.3"
