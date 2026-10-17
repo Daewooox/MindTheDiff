@@ -54,6 +54,6 @@
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.30.0",
     "@mindthediff/core": "workspace:^",
-    "zod": "^4.4.3"
+    "zod": "^4.6.7"
   }
 }
